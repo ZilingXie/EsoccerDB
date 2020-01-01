@@ -1,0 +1,547 @@
+NULL,13,Alisson,26,25,0,Goalkeepers,Liverpool
+NULL,1,Kelleher Caoimhin,20,0,0,Goalkeepers,Liverpool
+NULL,22,Mignolet Simon,30,0,0,Goalkeepers,Liverpool
+NULL,66,Alexander-Arnold Trent,20,17,1,Defenders,Liverpool
+NULL,12,Gomez Joe,21,13,0,Defenders,Liverpool
+NULL,4,Hoever Ki-Jana,17,0,0,Defenders,Liverpool
+NULL,5,Johnston George,20,0,0,Defenders,Liverpool
+NULL,6,Lovren Dejan,29,9,1,Defenders,Liverpool
+NULL,32,Matip Joel,27,11,1,Defenders,Liverpool
+NULL,18,Moreno Alberto,26,2,0,Defenders,Liverpool
+NULL,6,Phillips Nathaniel,21,0,0,Defenders,Liverpool
+NULL,26,Robertson Andrew,24,23,0,Defenders,Liverpool
+NULL,4,Van Dijk Virgil,27,25,1,Defenders,Liverpool
+NULL,64,Camacho Rafael,18,1,0,Midfielders,Liverpool
+NULL,8,Christie-Davies Isaac,21,0,0,Midfielders,Liverpool
+NULL,3,Fabinho,25,16,1,Midfielders,Liverpool
+NULL,14,Henderson Jordan,28,21,0,Midfielders,Liverpool
+NULL,48,Jones Curtis,19,0,0,Midfielders,Liverpool
+NULL,8,Keita Naby,23,18,0,Midfielders,Liverpool
+NULL,20,Lallana Adam,30,9,0,Midfielders,Liverpool
+NULL,7,Milner James,33,20,3,Midfielders,Liverpool
+NULL,23,Shaqiri Xherdan,27,20,6,Midfielders,Liverpool
+NULL,5,Wijnaldum Georginio,28,22,1,Midfielders,Liverpool
+NULL,9,Firmino Roberto,27,25,9,Forwards,Liverpool
+NULL,10,Mane Sadio,26,23,11,Forwards,Liverpool
+NULL,27,Origi Divock,23,4,1,Forwards,Liverpool
+NULL,11,Salah Mohamed,26,25,16,Forwards,Liverpool
+NULL,15,Sturridge Daniel,29,12,2,Forwards,Liverpool
+NULL,31,Ederson,25,31,0,Goalkeepers,Manchester City
+NULL,1,Grimshaw Daniel,21,0,0,Goalkeepers,Manchester City
+NULL,49,Muric Arijanet,20,0,0,Goalkeepers,Manchester City
+NULL,3,Danilo,27,8,1,Defenders,Manchester City
+NULL,50,Garcia Martret Eric,18,0,0,Defenders,Manchester City
+NULL,77,Humphreys Cameron,20,0,0,Defenders,Manchester City
+NULL,4,Kompany Vincent,32,12,0,Defenders,Manchester City
+NULL,14,Laporte Aymeric,24,28,2,Defenders,Manchester City
+NULL,22,Mendy Benjamin,24,9,0,Defenders,Manchester City
+NULL,30,Otamendi Nicolas,31,16,0,Defenders,Manchester City
+NULL,34,Sandler Philippe,22,0,0,Defenders,Manchester City
+NULL,5,Stones John,24,19,0,Defenders,Manchester City
+NULL,2,Walker Kyle,28,26,1,Defenders,Manchester City
+NULL,17,De Bruyne Kevin,27,15,1,Midfielders,Manchester City
+NULL,18,Delph Fabian,29,11,0,Midfielders,Manchester City
+NULL,25,Fernandinho,33,26,1,Midfielders,Manchester City
+NULL,47,Foden Phil,18,10,0,Midfielders,Manchester City
+NULL,8,Gomes Claudio,18,0,0,Midfielders,Manchester City
+NULL,8,Gundogan Ilkay,28,25,5,Midfielders,Manchester City
+NULL,26,Mahrez Riyad,28,25,6,Midfielders,Manchester City
+NULL,11,Nmecha Felix,18,0,0,Midfielders,Manchester City
+NULL,8,Richards Taylor,18,0,0,Midfielders,Manchester City
+NULL,19,Sane Leroy,23,25,8,Midfielders,Manchester City
+NULL,20,Silva Bernardo,24,30,6,Midfielders,Manchester City
+NULL,21,Silva David,33,27,6,Midfielders,Manchester City
+NULL,7,Sterling Raheem,24,28,15,Midfielders,Manchester City
+NULL,35,Zinchenko Oleksandr,22,8,0,Midfielders,Manchester City
+NULL,10,Aguero Sergio,30,27,19,Forwards,Manchester City
+NULL,33,Gabriel Jesus,21,24,6,Forwards,Manchester City
+NULL,7,Poveda Ian Carlo,19,0,0,Forwards,Manchester City
+NULL,1,Cech Petr,36,7,0,Goalkeepers,Arsenal
+NULL,13,Hillson James,18,0,0,Goalkeepers,Arsenal
+NULL,1,Iliev Dejan,24,0,0,Goalkeepers,Arsenal
+NULL,19,Leno Bernd,27,25,0,Goalkeepers,Arsenal
+NULL,2,Bellerin Hector,24,19,0,Defenders,Arsenal
+NULL,16,Holding Rob,23,10,0,Defenders,Arsenal
+NULL,25,Jenkinson Carl,27,2,0,Defenders,Arsenal
+NULL,31,Kolasinac Sead,25,19,0,Defenders,Arsenal
+NULL,6,Koscielny Laurent,33,12,3,Defenders,Arsenal
+NULL,12,Lichtsteiner Stephan,35,12,0,Defenders,Arsenal
+NULL,6,Mavropanos Konstantinos,21,1,0,Defenders,Arsenal
+NULL,15,Medley Zech,18,0,0,Defenders,Arsenal
+NULL,18,Monreal Nacho,33,17,1,Defenders,Arsenal
+NULL,20,Mustafi Shkodran,26,25,2,Defenders,Arsenal
+NULL,2,Osei-Tutu Jordi,20,0,0,Defenders,Arsenal
+NULL,3,Pleguezuelo Julio,22,0,0,Defenders,Arsenal
+NULL,5,Sokratis,30,21,0,Defenders,Arsenal
+NULL,7,Amaechi Xavier,18,0,0,Midfielders,Arsenal
+NULL,4,Elneny Mohamed,26,5,0,Midfielders,Arsenal
+NULL,4,Gilmour Charlie,20,0,0,Midfielders,Arsenal
+NULL,29,Guendouzi Matteo,19,26,0,Midfielders,Arsenal
+NULL,15,Maitland-Niles Ainsley,21,11,1,Midfielders,Arsenal
+NULL,7,Mkhitaryan Henrikh,30,19,6,Midfielders,Arsenal
+NULL,10,Olayinka James,18,0,0,Midfielders,Arsenal
+NULL,10,Ozil Mesut,30,19,4,Midfielders,Arsenal
+NULL,8,Ramsey Aaron,28,26,4,Midfielders,Arsenal
+NULL,6,Sheaf Ben,21,0,0,Midfielders,Arsenal
+NULL,22,Suarez Denis,25,4,0,Midfielders,Arsenal
+NULL,11,Torreira Lucas,23,29,2,Midfielders,Arsenal
+NULL,34,Xhaka Granit,26,25,4,Midfielders,Arsenal
+NULL,14,Aubameyang Pierre-Emerick,29,30,17,Forwards,Arsenal
+NULL,17,Iwobi Alex,22,28,3,Forwards,Arsenal
+NULL,9,John-Jules Tyreece,18,0,0,Forwards,Arsenal
+NULL,9,Lacazette Alexandre,27,30,13,Forwards,Arsenal
+NULL,49,Nketiah Edward,19,2,0,Forwards,Arsenal
+NULL,11,Saka Bukayo,17,1,0,Forwards,Arsenal
+NULL,23,Welbeck Danny,28,8,1,Forwards,Arsenal
+NULL,8,Willock Joseph,19,1,0,Forwards,Arsenal
+NULL,22,Gazzaniga Paulo,27,2,0,Goalkeepers,Tottenham
+NULL,1,Lloris Hugo,32,27,0,Goalkeepers,Tottenham
+NULL,13,Vorm Michel,35,2,0,Goalkeepers,Tottenham
+NULL,4,Alderweireld Toby,30,28,0,Defenders,Tottenham
+NULL,24,Aurier Serge,26,8,0,Defenders,Tottenham
+NULL,33,Davies Ben,25,20,0,Defenders,Tottenham
+NULL,5,Eyoma Timothy,19,0,0,Defenders,Tottenham
+NULL,21,Foyth Juan,21,7,1,Defenders,Tottenham
+NULL,3,Rose Danny,28,20,0,Defenders,Tottenham
+NULL,6,Sanchez Davinson,22,19,1,Defenders,Tottenham
+NULL,2,Trippier Kieran,28,24,1,Defenders,Tottenham
+NULL,5,Vertonghen Jan,31,18,1,Defenders,Tottenham
+NULL,16,Walker-Peters Kyle,21,4,0,Defenders,Tottenham
+NULL,20,Alli Dele,22,19,5,Midfielders,Tottenham
+NULL,15,Dier Eric,25,16,2,Midfielders,Tottenham
+NULL,23,Eriksen Christian,27,28,5,Midfielders,Tottenham
+NULL,11,Lamela Erik,27,18,4,Midfielders,Tottenham
+NULL,27,Lucas,26,25,7,Midfielders,Tottenham
+NULL,8,Marsh George,20,0,0,Midfielders,Tottenham
+NULL,17,Sissoko Moussa,29,25,0,Midfielders,Tottenham
+NULL,52,Skipp Oliver,18,6,0,Midfielders,Tottenham
+NULL,12,Wanyama Victor,27,6,0,Midfielders,Tottenham
+NULL,8,Winks Harry,23,25,1,Midfielders,Tottenham
+NULL,10,Kane Harry,25,27,17,Forwards,Tottenham
+NULL,18,Llorente Fernando,34,15,1,Forwards,Tottenham
+NULL,7,Son Heung-Min,26,25,11,Forwards,Tottenham
+NULL,13,Grant Lee,36,0,0,Goalkeepers,Manchester Utd
+NULL,22,Romero Sergio,32,0,0,Goalkeepers,Manchester Utd
+NULL,1,de Gea David,28,31,0,Goalkeepers,Manchester Utd
+NULL,3,Bailly Eric,24,11,0,Defenders,Manchester Utd
+NULL,20,Dalot Diogo,20,11,0,Defenders,Manchester Utd
+NULL,36,Darmian Matteo,29,5,0,Defenders,Manchester Utd
+NULL,4,Jones Phil,27,13,0,Defenders,Manchester Utd
+NULL,2,Lindelof Victor,24,25,1,Defenders,Manchester Utd
+NULL,16,Rojo Marcos,29,3,0,Defenders,Manchester Utd
+NULL,23,Shaw Luke,23,25,1,Defenders,Manchester Utd
+NULL,12,Smalling Chris,29,19,1,Defenders,Manchester Utd
+NULL,25,Valencia Antonio,33,5,0,Defenders,Manchester Utd
+NULL,17,Fred,26,13,1,Midfielders,Manchester Utd
+NULL,6,Garner James,18,1,0,Midfielders,Manchester Utd
+NULL,10,Gomes Angel,18,1,0,Midfielders,Manchester Utd
+NULL,54,Greenwood Mason,17,1,0,Midfielders,Manchester Utd
+NULL,21,Herrera Ander,29,20,2,Midfielders,Manchester Utd
+NULL,14,Lingard Jesse,26,23,4,Midfielders,Manchester Utd
+NULL,8,Mata Juan Manuel,30,19,2,Midfielders,Manchester Utd
+NULL,31,Matic Nemanja,30,25,1,Midfielders,Manchester Utd
+NULL,39,McTominay Scott,22,11,0,Midfielders,Manchester Utd
+NULL,6,Pogba Paul,26,28,11,Midfielders,Manchester Utd
+NULL,18,Young Ashley,33,24,2,Midfielders,Manchester Utd
+NULL,11,Chong Tahith,19,1,0,Forwards,Manchester Utd
+NULL,9,Lukaku Romelu,25,27,12,Forwards,Manchester Utd
+NULL,11,Martial Anthony,23,22,10,Forwards,Manchester Utd
+NULL,15,Pereira Andreas,23,10,1,Forwards,Manchester Utd
+NULL,10,Rashford Marcus,21,27,10,Forwards,Manchester Utd
+NULL,7,Sanchez Alexis,30,17,1,Forwards,Manchester Utd
+NULL,1,Arrizabalaga Kepa,24,30,0,Goalkeepers,Chelsea
+NULL,13,Bulka Marcin,19,0,0,Goalkeepers,Chelsea
+NULL,13,Caballero Wilfredo,37,1,0,Goalkeepers,Chelsea
+NULL,1,Cumming Jamie,19,0,0,Goalkeepers,Chelsea
+NULL,3,Alonso Marcos,28,28,1,Defenders,Chelsea
+NULL,28,Azpilicueta Cesar,29,31,1,Defenders,Chelsea
+NULL,24,Cahill Gary,33,1,0,Defenders,Chelsea
+NULL,27,Christensen Andreas,22,3,0,Defenders,Chelsea
+NULL,33,Emerson,25,6,0,Defenders,Chelsea
+NULL,30,Luiz David,31,29,2,Defenders,Chelsea
+NULL,2,Rudiger Antonio,26,30,1,Defenders,Chelsea
+NULL,21,Zappacosta Davide,26,2,0,Defenders,Chelsea
+NULL,2,Ampadu Ethan,18,0,0,Midfielders,Chelsea
+NULL,8,Barkley Ross,25,24,3,Midfielders,Chelsea
+NULL,6,Drinkwater Daniel,29,0,0,Midfielders,Chelsea
+NULL,10,Hazard Eden,28,30,13,Midfielders,Chelsea
+NULL,20,Hudson-Odoi Callum,18,6,0,Midfielders,Chelsea
+NULL,5,Jorginho,27,30,2,Midfielders,Chelsea
+NULL,7,Kante N'Golo,28,30,3,Midfielders,Chelsea
+NULL,17,Kovacic Mateo,24,27,0,Midfielders,Chelsea
+NULL,12,Loftus-Cheek Ruben,23,17,4,Midfielders,Chelsea
+NULL,8,McEachran George,18,0,0,Midfielders,Chelsea
+NULL,11,Pedro,31,26,8,Midfielders,Chelsea
+NULL,22,Willian,30,28,3,Midfielders,Chelsea
+NULL,18,Giroud Olivier,32,22,1,Forwards,Chelsea
+NULL,9,Higuain Gonzalo,31,8,3,Forwards,Chelsea
+NULL,31,Norris Will,25,0,0,Goalkeepers,Wolves
+NULL,11,Patricio Rui,31,30,0,Goalkeepers,Wolves
+NULL,21,Ruddy John,32,1,0,Goalkeepers,Wolves
+NULL,5,Bennett Ryan,29,28,1,Defenders,Wolves
+NULL,15,Boly Willy,28,29,3,Defenders,Wolves
+NULL,2,Doherty Matt,27,31,3,Defenders,Wolves
+NULL,3,Francis Edward,19,0,0,Defenders,Wolves
+NULL,5,John Cameron,19,0,0,Defenders,Wolves
+NULL,19,Jonny,25,26,1,Defenders,Wolves
+NULL,49,Kilman Max,21,0,0,Defenders,Wolves
+NULL,27,Saiss Romain,29,17,2,Defenders,Wolves
+NULL,29,Vinagre Ruben,19,13,0,Defenders,Wolves
+NULL,16,Coady Conor,26,31,0,Midfielders,Wolves
+NULL,10,Costa Helder,25,24,1,Midfielders,Wolves
+NULL,32,Dendoncker Leander,23,12,1,Midfielders,Wolves
+NULL,17,Gibbs-White Morgan,19,21,0,Midfielders,Wolves
+NULL,6,Giles Ryan,19,0,0,Midfielders,Wolves
+NULL,28,Moutinho Joao,32,31,1,Midfielders,Wolves
+NULL,8,Neves Ruben,22,28,3,Midfielders,Wolves
+NULL,37,Traore Adama,23,25,1,Midfielders,Wolves
+NULL,7,Cavaleiro Ivan,25,20,3,Forwards,Wolves
+NULL,9,Ennis Niall,?,0,0,Forwards,Wolves
+NULL,9,Jimenez Raul,27,31,12,Forwards,Wolves
+NULL,18,Jota Diogo,22,26,6,Forwards,Wolves
+NULL,27,Button David,30,4,0,Goalkeepers,Brighton
+NULL,1,Ryan Mathew,26,26,0,Goalkeepers,Brighton
+NULL,1,Sanchez Robert,21,0,0,Goalkeepers,Brighton
+NULL,23,Steele Jason,28,0,0,Goalkeepers,Brighton
+NULL,14,Balogun Leon,30,8,1,Defenders,Brighton
+NULL,30,Bernardo,23,14,0,Defenders,Brighton
+NULL,3,Bong Gaetan,30,20,0,Defenders,Brighton
+NULL,33,Burn Dan,26,0,0,Defenders,Brighton
+NULL,4,Duffy Shane,27,27,5,Defenders,Brighton
+NULL,5,Dunk Lewis,27,28,2,Defenders,Brighton
+NULL,22,Montoya Martin,27,22,0,Defenders,Brighton
+NULL,2,Saltor Bruno,38,8,0,Defenders,Brighton
+NULL,13,Gross Pascal,27,19,2,Midfielders,Brighton
+NULL,16,Jahanbakhsh Alireza,25,14,0,Midfielders,Brighton
+NULL,7,Kayal Biram,30,13,1,Midfielders,Brighton
+NULL,11,Knockaert Anthony,27,25,2,Midfielders,Brighton
+NULL,20,March Solomon,24,29,1,Midfielders,Brighton
+NULL,8,Molumby Jayson,19,0,0,Midfielders,Brighton
+NULL,24,Propper Davy,27,26,1,Midfielders,Brighton
+NULL,7,Sanders Max Harrison,20,0,0,Midfielders,Brighton
+NULL,10,Andone Florin,25,16,3,Forwards,Brighton
+NULL,8,Bissouma Yves,22,22,0,Forwards,Brighton
+NULL,10,Gyokeres Viktor,20,0,0,Forwards,Brighton
+NULL,19,Izquierdo Jose,26,11,0,Forwards,Brighton
+NULL,9,Locadia Jurgen,25,23,2,Forwards,Brighton
+NULL,17,Murray Glenn,35,30,11,Forwards,Brighton
+NULL,28,Gunn Angus,23,6,0,Goalkeepers,Southampton
+NULL,1,Lewis Harry,21,0,0,Goalkeepers,Southampton
+NULL,1,McCarthy Alex,29,25,0,Goalkeepers,Southampton
+NULL,35,Bednarek Jan,22,18,0,Defenders,Southampton
+NULL,21,Bertrand Ryan,29,17,1,Defenders,Southampton
+NULL,6,Jones Alfie,21,0,0,Defenders,Southampton
+NULL,27,Stephens Jack,25,18,1,Defenders,Southampton
+NULL,33,Targett Matt,23,14,0,Defenders,Southampton
+NULL,43,Valery Yann,20,17,2,Defenders,Southampton
+NULL,4,Vestergaard Jannik,26,21,0,Defenders,Southampton
+NULL,3,Yoshida Maya,30,13,0,Defenders,Southampton
+NULL,17,Armstrong Stuart,27,24,3,Midfielders,Southampton
+NULL,23,Hojbjerg Pierre-Emile,23,24,4,Midfielders,Southampton
+NULL,18,Lemina Mario,25,18,0,Midfielders,Southampton
+NULL,22,Redmond Nathan,25,31,3,Midfielders,Southampton
+NULL,14,Romeu Oriol,27,24,1,Midfielders,Southampton
+NULL,39,Sims Joshua,22,2,0,Midfielders,Southampton
+NULL,10,Slattery Callum,20,3,0,Midfielders,Southampton
+NULL,16,Ward-Prowse James,24,19,6,Midfielders,Southampton
+NULL,10,Austin Charlie,29,22,2,Forwards,Southampton
+NULL,11,Barnes Marcus,22,0,0,Forwards,Southampton
+NULL,11,Elyounoussi Mohamed,24,15,0,Forwards,Southampton
+NULL,15,Gallagher Sam,23,4,0,Forwards,Southampton
+NULL,9,Ings Danny,26,19,7,Forwards,Southampton
+NULL,14,Johnson Tyreke,20,1,0,Forwards,Southampton
+NULL,7,Long Shane,32,19,1,Forwards,Southampton
+NULL,61,Obafemi Michael,18,6,1,Forwards,Southampton
+NULL,68,Spyridis Odysseas,18,0,0,Forwards,Southampton
+NULL,20,Hart Joe,31,19,0,Goalkeepers,Burnley
+NULL,1,Heaton Tom,32,13,0,Goalkeepers,Burnley
+NULL,29,Pope Nick,26,0,0,Goalkeepers,Burnley
+NULL,26,Bardsley Phillip,33,19,0,Defenders,Burnley
+NULL,14,Gibson Benjamin,26,1,1,Defenders,Burnley
+NULL,28,Long Kevin,28,6,0,Defenders,Burnley
+NULL,2,Lowton Matthew,29,15,0,Defenders,Burnley
+NULL,6,Mee Ben,29,32,0,Defenders,Burnley
+NULL,5,Tarkowski James,26,29,3,Defenders,Burnley
+NULL,23,Ward Stephen,33,3,0,Defenders,Burnley
+NULL,46,Benson Josh,19,0,0,Midfielders,Burnley
+NULL,12,Brady Robbie,27,14,0,Midfielders,Burnley
+NULL,4,Cork Jack,29,31,1,Midfielders,Burnley
+NULL,16,Defour Steven,30,6,0,Midfielders,Burnley
+NULL,13,Hendrick Jeff,27,26,1,Midfielders,Burnley
+NULL,3,Taylor Charlie,25,32,0,Midfielders,Burnley
+NULL,18,Westwood Ashley,29,28,1,Midfielders,Burnley
+NULL,10,Barnes Ashley,29,31,9,Forwards,Burnley
+NULL,15,Crouch Peter,38,5,0,Forwards,Burnley
+NULL,7,Gudmundsson Johann,28,25,3,Forwards,Burnley
+NULL,25,Lennon Aaron,31,16,1,Forwards,Burnley
+NULL,31,McNeil Dwight,19,15,3,Forwards,Burnley
+NULL,27,Vydra Matej,26,11,1,Forwards,Burnley
+NULL,11,Wood Chris,27,32,7,Forwards,Burnley
+NULL,1,Etheridge Neil,29,31,0,Goalkeepers,Cardiff
+NULL,28,Murphy Brian,35,0,0,Goalkeepers,Cardiff
+NULL,12,Smithies Alex,29,0,0,Goalkeepers,Cardiff
+NULL,22,Bamba Sol,34,28,4,Defenders,Cardiff
+NULL,3,Bennett Joe,29,23,0,Defenders,Cardiff
+NULL,16,Connolly Matthew,31,0,0,Defenders,Cardiff
+NULL,34,Coxe Cameron,20,0,0,Defenders,Cardiff
+NULL,18,Cunningham Greg,28,7,0,Defenders,Cardiff
+NULL,5,Ecuele Manga Bruno,30,31,0,Defenders,Cardiff
+NULL,4,Morrison Sean,28,27,0,Defenders,Cardiff
+NULL,13,Paterson Callum,24,27,4,Defenders,Cardiff
+NULL,2,Peltier Lee,32,13,0,Defenders,Cardiff
+NULL,6,Richards Jazz,27,3,0,Defenders,Cardiff
+NULL,7,Arter Harry,29,24,0,Midfielders,Cardiff
+NULL,15,Bacuna Leandro,27,5,0,Midfielders,Cardiff
+NULL,21,Camarasa Victor,24,26,5,Midfielders,Cardiff
+NULL,20,Damour Loic,28,2,0,Midfielders,Cardiff
+NULL,17,Gunnarsson Aron,29,21,1,Midfielders,Cardiff
+NULL,23,Harris Kadeem,25,12,1,Midfielders,Cardiff
+NULL,39,Humphries Lloyd,21,0,0,Midfielders,Cardiff
+NULL,19,Mendez-Laing Nathaniel,26,13,1,Midfielders,Cardiff
+NULL,11,Murphy Josh,24,24,3,Midfielders,Cardiff
+NULL,8,Ralls Joe,25,25,0,Midfielders,Cardiff
+NULL,14,Reid Bobby,26,22,4,Midfielders,Cardiff
+NULL,32,Healey Rhys,24,2,0,Forwards,Cardiff
+NULL,33,Hoilett Junior,28,25,3,Forwards,Cardiff
+NULL,29,Niasse Oumar,28,8,0,Forwards,Cardiff
+NULL,9,Ward Danny,27,11,1,Forwards,Cardiff
+NULL,10,Zohore Kenneth,25,14,1,Forwards,Cardiff
+NULL,1,Bettinelli Marcus,26,7,0,Goalkeepers,Fulham
+NULL,31,Fabricio,31,2,0,Goalkeepers,Fulham
+NULL,25,Rico Sergio,25,23,0,Goalkeepers,Fulham
+NULL,23,Bryan Joe,25,22,0,Defenders,Fulham
+NULL,5,Chambers Calum,24,25,2,Defenders,Fulham
+NULL,22,Christie Cyrus,26,22,0,Defenders,Fulham
+NULL,21,Fosu-Mensah Timothy,21,11,0,Defenders,Fulham
+NULL,20,Le Marchand Maxime,29,20,0,Defenders,Fulham
+NULL,26,Mawson Alfie,25,13,0,Defenders,Fulham
+NULL,4,Odoi Dennis,30,28,0,Defenders,Fulham
+NULL,13,Ream Tim,31,21,0,Defenders,Fulham
+NULL,3,Sessegnon Ryan,18,29,2,Defenders,Fulham
+NULL,43,Sessegnon Steven,18,0,0,Defenders,Fulham
+NULL,11,Ayite Floyd,30,12,1,Midfielders,Fulham
+NULL,10,Cairney Tom,28,26,0,Midfielders,Fulham
+NULL,44,Cisse Ibrahima,25,3,0,Midfielders,Fulham
+NULL,7,Kebano Neeskens,27,6,0,Midfielders,Fulham
+NULL,30,Markovic Lazar,25,1,0,Midfielders,Fulham
+NULL,6,McDonald Kevin,30,14,0,Midfielders,Fulham
+NULL,16,Nordtveit Havard,28,4,0,Midfielders,Fulham
+NULL,14,Schurrle Andre,28,23,6,Midfielders,Fulham
+NULL,24,Seri Jean Michael,27,29,1,Midfielders,Fulham
+NULL,29,Zambo Anguissa Andre-Frank,23,16,0,Midfielders,Fulham
+NULL,7,de la Torre Luca,20,0,0,Midfielders,Fulham
+NULL,12,Babel Ryan,32,10,2,Forwards,Fulham
+NULL,9,Mitrovic Aleksandar,24,31,10,Forwards,Fulham
+NULL,19,Vietto Luciano,25,20,1,Forwards,Fulham
+NULL,13,Coleman Joel,?,0,0,Goalkeepers,Huddersfield
+NULL,12,Hamer Ben,31,5,0,Goalkeepers,Huddersfield
+NULL,1,Lossl Jonas,30,28,0,Goalkeepers,Huddersfield
+NULL,38,Duhaney Demeaco,20,1,0,Defenders,Huddersfield
+NULL,37,Durm Erik,26,23,0,Defenders,Huddersfield
+NULL,25,Jorgensen Mathias,28,24,3,Defenders,Huddersfield
+NULL,5,Kongolo Terence,25,26,1,Defenders,Huddersfield
+NULL,15,Lowe Chris,29,24,0,Defenders,Huddersfield
+NULL,26,Schindler Christopher,28,31,1,Defenders,Huddersfield
+NULL,2,Smith Tom,26,10,0,Defenders,Huddersfield
+NULL,8,Billing Philip,22,27,2,Midfielders,Huddersfield
+NULL,41,Daly Matty,18,0,0,Midfielders,Huddersfield
+NULL,33,Hadergjonaj Florent,24,23,0,Midfielders,Huddersfield
+NULL,6,Hogg Jonathan,30,23,0,Midfielders,Huddersfield
+NULL,10,Mooy Aaron,28,24,2,Midfielders,Huddersfield
+NULL,21,Pritchard Alex,25,26,1,Midfielders,Huddersfield
+NULL,42,Puncheon Jason,32,6,0,Midfielders,Huddersfield
+NULL,27,Stankovic Jon,23,7,1,Midfielders,Huddersfield
+NULL,19,Williams Daniel,30,4,0,Midfielders,Huddersfield
+NULL,7,Bacuna Juninho,21,15,1,Forwards,Huddersfield
+NULL,20,Depoitre Laurent,30,23,0,Forwards,Huddersfield
+NULL,11,Diakhaby Adama,22,11,0,Forwards,Huddersfield
+NULL,9,Kachunga Elias,26,17,0,Forwards,Huddersfield
+NULL,18,Mbenza Isaac,23,17,0,Forwards,Huddersfield
+NULL,24,Mounie Steve,24,26,2,Forwards,Huddersfield
+NULL,23,Jakupovic Eldin,34,0,0,GoalKeepers,Leicester
+NULL,1,Schmeichel Kasper,32,32,0,GoalKeepers,Leicester
+NULL,12,Ward Danny,25,0,0,GoalKeepers,Leicester
+NULL,3,Chilwell Benjamin,22,30,0,Defenders,Leicester
+NULL,6,Evans Jonny,31,20,1,Defenders,Leicester
+NULL,28,Fuchs Christian,32,3,0,Defenders,Leicester
+NULL,15,Maguire Harry,26,26,3,Defenders,Leicester
+NULL,24,Mendy Nampalys,26,28,0,Defenders,Leicester
+NULL,5,Morgan Wes,35,20,3,Defenders,Leicester
+NULL,25,Ndidi Wilfred,22,32,2,Defenders,Leicester
+NULL,14,Ricardo Pereira,25,29,2,Defenders,Leicester
+NULL,2,Simpson Danny,32,5,0,Defenders,Leicester
+NULL,4,Soyuncu Caglar,22,5,0,Defenders,Leicester
+NULL,11,Albrighton Marc,29,22,2,Midfielders,Leicester
+NULL,18,Amartey Daniel,24,9,0,Midfielders,Leicester
+NULL,19,Barnes Harvey,21,10,0,Midfielders,Leicester
+NULL,31,Ghezzal Rachid,26,19,1,Midfielders,Leicester
+NULL,7,Gray Demarai,22,29,4,Midfielders,Leicester
+NULL,9,James Matthew,27,0,0,Midfielders,Leicester
+NULL,8,Leshabela Thakgalo Khanya,19,0,0,Midfielders,Leicester
+NULL,10,Maddison James,22,30,6,Midfielders,Leicester
+NULL,21,Tielemans Youri,21,7,1,Midfielders,Leicester
+NULL,8,Iheanacho Kelechi,22,26,1,Forwards,Leicester
+NULL,20,Okazaki Shinji,32,19,0,Forwards,Leicester
+NULL,9,Vardy Jamie,32,28,13,Forwards,Leicester
+NULL,1,Pickford Jordan,25,32,0,GoalKeepers,Everton
+NULL,22,Stekelenburg Maarten,36,0,0,GoalKeepers,Everton
+NULL,1,Virginia Joao,19,0,0,GoalKeepers,Everton
+NULL,3,Baines Leighton,34,6,0,Defenders,Everton
+NULL,23,Coleman Seamus,30,24,1,Defenders,Everton
+NULL,12,Digne Lucas,25,29,3,Defenders,Everton
+NULL,6,Jagielka Phil,36,3,0,Defenders,Everton
+NULL,4,Keane Michael,26,29,1,Defenders,Everton
+NULL,43,Kenny Jonjoe,22,10,0,Defenders,Everton
+NULL,13,Mina Yerry,24,12,1,Defenders,Everton
+NULL,5,Zouma Kurt,24,26,2,Defenders,Everton
+NULL,20,Bernard,26,28,1,Midfielders,Everton
+NULL,26,Davies Tom,20,15,0,Midfielders,Everton
+NULL,8,Gomes Andre,25,24,1,Midfielders,Everton
+NULL,16,Gordon Anthony,18,0,0,Midfielders,Everton
+NULL,17,Gueye Idrissa,29,27,0,Midfielders,Everton
+NULL,2,John Kyle,18,0,0,Midfielders,Everton
+NULL,16,McCarthy James,28,0,0,Midfielders,Everton
+NULL,18,Schneiderlin Morgan,29,10,0,Midfielders,Everton
+NULL,10,Sigurdsson Gylfi,29,32,12,Midfielders,Everton
+NULL,11,Broadhead Nathan,20,0,0,Forwards,Everton
+NULL,29,Calvert-Lewin Dominic,22,30,6,Forwards,Everton
+NULL,31,Lookman Ademola,21,16,0,Forwards,Everton
+NULL,30,Richarlison,21,30,12,Forwards,Everton
+NULL,14,Tosun Cenk,27,22,2,Forwards,Everton
+NULL,11,Walcott Theo,30,31,3,Forwards,Everton
+NULL,30,Dahlberg Pontus,20,0,0,GoalKeepers,Watford
+NULL,26,Foster Ben,35,31,0,GoalKeepers,Watford
+NULL,1,Gomes Heurelho,38,0,0,GoalKeepers,Watford
+NULL,13,Parkes Adam,19,0,0,Defenders,Watford
+NULL,3,Britos Cabrera Miguel Angel,33,3,0,Defenders,Watford
+NULL,15,Cathcart Craig,31,29,3,Defenders,Watford
+NULL,25,Holebas Jose,34,24,3,Defenders,Watford
+NULL,2,Janmaat Daryl,29,15,0,Defenders,Watford
+NULL,27,Kabasele Christian,28,17,0,Defenders,Watford
+NULL,6,Mariappa Adrian,32,21,0,Defenders,Watford
+NULL,11,Masina Adam,25,10,0,Defenders,Watford
+NULL,23,Navarro Marc,23,1,0,Midfielders,Watford
+NULL,5,Prodl Sebastian,31,1,0,Midfielders,Watford
+NULL,29,Capoue Etienne,30,27,1,Midfielders,Watford
+NULL,14,Chalobah Nathaniel,24,7,0,Midfielders,Watford
+NULL,8,Cleverley Tom,29,12,1,Midfielders,Watford
+NULL,7,Deulofeu Gerard,25,24,7,Midfielders,Watford
+NULL,16,Doucoure Abdoulaye,26,28,4,Midfielders,Watford
+NULL,19,Hughes Will,23,25,1,Midfielders,Watford
+NULL,21,Kiko,28,22,0,Midfielders,Watford
+NULL,37,Pereyra Roberto,28,28,6,Forwards,Watford
+NULL,20,Quina Domingos,19,7,1,Forwards,Watford
+NULL,12,Sema Ken,25,15,1,Forwards,Watford
+NULL,9,Deeney Troy,30,28,8,Forwards,Watford
+NULL,18,Gray Andre,27,22,5,Forwards,Watford
+NULL,17,Penaranda Adalberto,21,0,0,Forwards,Watford
+NULL,10,Success Isaac,23,25,1,Forwards,Watford
+NULL,13,Adrian,32,0,0,GoalKeepers,West Ham
+NULL,1,Fabianski Lukasz,33,32,0,GoalKeepers,West Ham
+NULL,4,Balbuena Fabian,27,17,1,GoalKeepers,West Ham
+NULL,3,Cresswell Aaron,29,19,0,Defenders,West Ham
+NULL,23,Diop Issa,22,30,1,Defenders,West Ham
+NULL,26,Masuaku Arthur,25,18,0,Defenders,West Ham
+NULL,21,Ogbonna Angelo,30,20,1,Defenders,West Ham
+NULL,5,Zabaleta Pablo,34,23,0,Defenders,West Ham
+NULL,8,Anderson Felipe,25,31,8,Defenders,West Ham
+NULL,30,Antonio Michail,29,28,4,Defenders,West Ham
+NULL,4,Coventry Conor,19,0,0,Defenders,West Ham
+NULL,45,Diangana Grady,20,15,0,Midfielders,West Ham
+NULL,12,Dju Mesaque,20,0,0,Midfielders,West Ham
+NULL,24,Fredericks Ryan,26,10,0,Midfielders,West Ham
+NULL,10,Lanzini Manuel,26,6,0,Midfielders,West Ham
+NULL,18,Nasri Samir,31,5,0,Midfielders,West Ham
+NULL,16,Noble Mark,31,25,3,Midfielders,West Ham
+NULL,14,Obiang Pedro,27,20,0,Midfielders,West Ham
+NULL,41,Rice Declan,20,29,2,Midfielders,West Ham
+NULL,11,Snodgrass Robert,31,29,2,Midfielders,West Ham
+NULL,19,Wilshere Jack,27,5,0,Forwards,West Ham
+NULL,7,Arnautovic Marko,29,23,7,Forwards,West Ham
+NULL,9,Carroll Andrew,30,12,0,Forwards,West Ham
+NULL,17,Chicharito,30,23,7,Forwards,West Ham
+NULL,11,Holland Nathan,20,0,0,Forwards,West Ham
+NULL,2,Johnson Benjamin,19,1,0,Forwards,West Ham
+NULL,27,Perez Lucas,30,12,2,Forwards,West Ham
+NULL,32,Silva Xande,22,1,0,Forwards,West Ham
+NULL,20,Yarmolenko Andriy,29,9,2,Forwards,West Ham
+NULL,27,Begovic Asmir,31,23,0,GoalKeepers,Bournemouth
+NULL,1,Boruc Artur,39,9,0,GoalKeepers,Bournemouth
+NULL,12,Danielsson Rafal Stefan,?,0,0,GoalKeepers,Bournemouth
+NULL,42,Travers Mark,19,0,0,Defenders,Bournemouth
+NULL,5,Ake Nathan,24,32,3,Defenders,Bournemouth
+NULL,23,Clyne Nathaniel,27,10,0,Defenders,Bournemouth
+NULL,3,Cook Steve,27,26,1,Defenders,Bournemouth
+NULL,2,Francis Simon,34,17,0,Defenders,Bournemouth
+NULL,33,Mepham Chris,21,8,0,Defenders,Bournemouth
+NULL,21,Rico Diego,26,11,0,Defenders,Bournemouth
+NULL,15,Smith Adam,27,21,1,Defenders,Bournemouth
+NULL,20,Brooks David,21,26,6,Midfielders,Bournemouth
+NULL,36,Butcher Matt,21,0,0,Midfielders,Bournemouth
+NULL,16,Cook Lewis,22,13,0,Midfielders,Bournemouth
+NULL,11,Daniels Charlie,32,21,1,Midfielders,Bournemouth
+NULL,24,Fraser Ryan,25,32,6,Midfielders,Bournemouth
+NULL,4,Gosling Dan,29,21,0,Midfielders,Bournemouth
+NULL,8,Lerma Jefferson,24,24,1,Midfielders,Bournemouth
+NULL,9,Mousset Lys,23,21,1,Midfielders,Bournemouth
+NULL,59,Ofoborh Nnamdi,19,0,0,Midfielders,Bournemouth
+NULL,19,Stanislas Junior,29,20,1,Forwards,Bournemouth
+NULL,6,Surman Andrew,32,18,0,Forwards,Bournemouth
+NULL,28,Taylor Kyle,19,0,0,Forwards,Bournemouth
+NULL,10,Ibe Jordon,23,17,0,Forwards,Bournemouth
+NULL,17,King Joshua,27,29,11,Forwards,Bournemouth
+NULL,29,Solanke Dominic,21,6,0,Forwards,Bournemouth
+NULL,13,Wilson Callum,27,24,11,Forwards,Bournemouth
+NULL,31,Guaita,32,13,0,Goalskeepers,Crystal Palace
+NULL,13,Hennessey Wayne,32,18,0,Goalskeepers,Crystal Palace
+NULL,40,Perri Lucas,21,0,0,Goalskeepers,Crystal Palace
+NULL,1,Speroni Julian,39,1,0,Goalskeepers,Crystal Palace
+NULL,41,Tupper Joe,21,0,0,Goalskeepers,Crystal Palace
+NULL,6,Dann Scott,32,5,0,Defenders,Crystal Palace
+NULL,34,Kelly Martin,28,6,0,Defenders,Crystal Palace
+NULL,44,Riedewald Jairo,22,0,0,Defenders,Crystal Palace
+NULL,12,Sakho Mamadou,29,27,0,Defenders,Crystal Palace
+NULL,23,Souare Pape,28,1,0,Defenders,Crystal Palace
+NULL,5,Tomkins James,30,27,1,Defenders,Crystal Palace
+NULL,29,Wan-Bissaka Aaron,21,28,0,Defenders,Crystal Palace
+NULL,2,Ward Joel,29,4,1,Defenders,Crystal Palace
+NULL,35,Woods Sam,20,0,0,Defenders,Crystal Palace
+NULL,3,van Aanholt Patrick,28,31,2,Defenders,Crystal Palace
+NULL,8,Kouyate Cheikhou,29,25,0,Midfielders,Crystal Palace
+NULL,18,McArthur James,31,31,2,Midfielders,Crystal Palace
+NULL,7,Meyer Max,23,24,1,Midfielders,Crystal Palace
+NULL,4,Milivojevic Luka,27,31,10,Midfielders,Crystal Palace
+NULL,26,Sako Bakary,30,1,0,Midfielders,Crystal Palace
+NULL,10,Townsend Andros,27,31,4,Midfielders,Crystal Palace
+NULL,14,Ayew Jordan,27,18,1,Forwards,Crystal Palace
+NULL,23,Batshuayi Michy,26,7,2,Forwards,Crystal Palace
+NULL,17,Benteke Christian,28,11,0,Forwards,Crystal Palace
+NULL,15,Schlupp Jeffery,26,27,4,Forwards,Crystal Palace
+NULL,21,Wickham Connor,26,5,0,Forwards,Crystal Palace
+NULL,11,Zaha Wilfried,26,27,8,Forwards,Crystal Palace
+NULL,26,Darlow Karl,28,0,0,Goalkeepers,Newcastle
+NULL,12,Dubravka Martin,30,32,0,Goalkeepers,Newcastle
+NULL,1,Harker Nathan,20,0,0,Goalkeepers,Newcastle
+NULL,41,Woodman Frederick,22,0,0,Goalkeepers,Newcastle
+NULL,23,Barreca Antonio,24,1,0,Defenders,Newcastle
+NULL,2,Clark Ciaran,29,11,3,Defenders,Newcastle
+NULL,3,Dummett Paul,27,20,0,Defenders,Newcastle
+NULL,18,Fernandez Federico,30,16,0,Defenders,Newcastle
+NULL,14,Hayden Isaac,24,19,1,Defenders,Newcastle
+NULL,6,Lascelles Jamaal,25,27,0,Defenders,Newcastle
+NULL,20,Lejeune Florian,27,11,0,Defenders,Newcastle
+NULL,19,Manquillo Javier,24,14,0,Defenders,Newcastle
+NULL,5,Schar Fabian,27,18,3,Defenders,Newcastle
+NULL,22,Yedlin DeAndre,25,28,1,Defenders,Newcastle
+NULL,24,Almiron Miguel,25,7,0,Midfielders,Newcastle
+NULL,10,Diame Mohamed,31,26,0,Midfielders,Newcastle
+NULL,15,Kenedy,23,23,1,Midfielders,Newcastle
+NULL,4,Ki Sung-Yong,30,13,0,Midfielders,Newcastle
+NULL,36,Longstaff Sean,21,9,1,Midfielders,Newcastle
+NULL,13,Muto Yoshinori,26,14,1,Midfielders,Newcastle
+NULL,11,Ritchie Matt,29,30,2,Midfielders,Newcastle
+NULL,8,Shelvey Jonjo,27,13,0,Midfielders,Newcastle
+NULL,30,Atsu Christian,27,22,0,Forwards,Newcastle
+NULL,21,Joselu,29,16,2,Forwards,Newcastle
+NULL,17,Perez Ayoze,25,31,6,Forwards,Newcastle
+NULL,9,Rondon Salomon,29,26,9,Forwards,Newcastle
